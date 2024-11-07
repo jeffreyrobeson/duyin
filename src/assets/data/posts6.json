@@ -326,7 +326,7 @@
       "play_addr": {
         "uri": "v0200f2c0000bj63fuv3cp5a1sbmujc0",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0200f2c0000bj63fuv3cp5a1sbmujc0&line=0&file_id=fad24ab3e1ab4efa90440244d5268bd9&sign=f33a08757b00e73f6a75ab6a3c5d751b&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://v3-default.ixigua.com/a7c3568190d2eb3b3855104bacc578af/672ce7fe/video/tos/cn/tos-cn-ve-0015c800/22010075e84205d4f59af47e5767e9b41461161e3a8600005474b9675bc8/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=1593&bt=1593&cs=0&ds=3&ft=aT_7TQQqUuIf_oZmo0OW_QYaUqiXq8dIoVJE7jK1.bPD-Ipz&mime_type=video_mp4&qs=0&rc=PGU5ODc1NzNkaGU0NmQ1ZEBpM21wdmRzNng2bTMzZmkzM0BhNS9hMS0xNmMxXmJfMWFjYSNgcl8uMmBzYzNfLS0vLS9zcw%3D%3D&btag=80000e00008000&dy_q=1730992615&l=202411072316558253A139DF1F111FB246"
         ],
         "width": 720,
         "height": 1280,
@@ -347,7 +347,7 @@
       "use_static_cover": false,
       "duration": 7133
     },
-    "share_url": "https://www.iesdouyin.com/share/video/6686589698707590411/?region=CN&mid=6452110567468436238&u_code=13kgm680k&did=MS4wLjABAAAAiOgYyZm8XbWZMr5o3OvhR-TEOuNygb_hQOwkie-VXJpDYaR4vZfpiIGBfAWKCFHB&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title&share_sign=DGkn.ltdNm4E6JhEBtbWsuF.YDISGBPo3egx6J8W_c4-&share_version=170400&ts=1710490324&from_aid=6383&from_ssr=1",
+    "share_url": "https://v3-default.ixigua.com/a7c3568190d2eb3b3855104bacc578af/672ce7fe/video/tos/cn/tos-cn-ve-0015c800/22010075e84205d4f59af47e5767e9b41461161e3a8600005474b9675bc8/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=1593&bt=1593&cs=0&ds=3&ft=aT_7TQQqUuIf_oZmo0OW_QYaUqiXq8dIoVJE7jK1.bPD-Ipz&mime_type=video_mp4&qs=0&rc=PGU5ODc1NzNkaGU0NmQ1ZEBpM21wdmRzNng2bTMzZmkzM0BhNS9hMS0xNmMxXmJfMWFjYSNgcl8uMmBzYzNfLS0vLS9zcw%3D%3D&btag=80000e00008000&dy_q=1730992615&l=202411072316558253A139DF1F111FB246",
     "statistics": {
       "admire_count": 0,
       "comment_count": 19109,
@@ -371,7 +371,7 @@
     "text_extra": [],
     "is_top": 1,
     "share_info": {
-      "share_url": "https://www.iesdouyin.com/share/video/6686589698707590411/?region=CN&mid=6452110567468436238&u_code=13kgm680k&did=MS4wLjABAAAAiOgYyZm8XbWZMr5o3OvhR-TEOuNygb_hQOwkie-VXJpDYaR4vZfpiIGBfAWKCFHB&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title&share_sign=DGkn.ltdNm4E6JhEBtbWsuF.YDISGBPo3egx6J8W_c4-&share_version=170400&ts=1710490324&from_aid=6383&from_ssr=1",
+      "share_url": "https://v3-default.ixigua.com/a7c3568190d2eb3b3855104bacc578af/672ce7fe/video/tos/cn/tos-cn-ve-0015c800/22010075e84205d4f59af47e5767e9b41461161e3a8600005474b9675bc8/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=1593&bt=1593&cs=0&ds=3&ft=aT_7TQQqUuIf_oZmo0OW_QYaUqiXq8dIoVJE7jK1.bPD-Ipz&mime_type=video_mp4&qs=0&rc=PGU5ODc1NzNkaGU0NmQ1ZEBpM21wdmRzNng2bTMzZmkzM0BhNS9hMS0xNmMxXmJfMWFjYSNgcl8uMmBzYzNfLS0vLS9zcw%3D%3D&btag=80000e00008000&dy_q=1730992615&l=202411072316558253A139DF1F111FB246",
       "share_link_desc": "6.46 mQX:/ S@y.go 05/04 门有点矮哟～  %s 复制此链接，打开Dou音搜索，直接观看视频！"
     },
     "duration": 7133,
