@@ -326,7 +326,7 @@
       "play_addr": {
         "uri": "v0200f2c0000bj63fuv3cp5a1sbmujc0",
         "url_list": [
-          "https://v26-default.ixigua.com/db3189abaac15e656183fd7e19730f9f/672dd9e8/video/tos/cn/tos-cn-ve-15/o8TPIBTIxPiuAY1fAg9tFDzty4eHlAQ8iE9BQt/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=682&bt=682&cs=0&ds=3&ft=k7Fz7VVywIiRZm8Zmo~pK7pswApucJ3ZvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=NGc2Z2ZkZDc7NGczPDVlO0Bpam1ua3c5cnR2djMzNGkzM0A2LjRgNTEuNWIxYjFgYjY0YSNsYmM0MmRzZ2pgLS1kLTBzcw%3D%3D&btag=80000e00028000&dy_q=1731054371&feature_id=2e1813f3872a2105acee44623dff2864&l=202411081626110DC9587D660658801680"
+          "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0300fg10000csmsjqvog65t7hfkejog&ratio=720p&line=0"
         ],
         "width": 720,
         "height": 1280,
@@ -347,7 +347,7 @@
       "use_static_cover": false,
       "duration": 181133
     },
-    "share_url": "https://v26-default.ixigua.com/db3189abaac15e656183fd7e19730f9f/672dd9e8/video/tos/cn/tos-cn-ve-15/o8TPIBTIxPiuAY1fAg9tFDzty4eHlAQ8iE9BQt/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=682&bt=682&cs=0&ds=3&ft=k7Fz7VVywIiRZm8Zmo~pK7pswApucJ3ZvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=NGc2Z2ZkZDc7NGczPDVlO0Bpam1ua3c5cnR2djMzNGkzM0A2LjRgNTEuNWIxYjFgYjY0YSNsYmM0MmRzZ2pgLS1kLTBzcw%3D%3D&btag=80000e00028000&dy_q=1731054371&feature_id=2e1813f3872a2105acee44623dff2864&l=202411081626110DC9587D660658801680",
+    "share_url": "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0300fg10000csmsjqvog65t7hfkejog&ratio=720p&line=0",
     "statistics": {
       "admire_count": 0,
       "comment_count": 19109,
@@ -371,7 +371,7 @@
     "text_extra": [],
     "is_top": 1,
     "share_info": {
-      "share_url": "https://v26-default.ixigua.com/db3189abaac15e656183fd7e19730f9f/672dd9e8/video/tos/cn/tos-cn-ve-15/o8TPIBTIxPiuAY1fAg9tFDzty4eHlAQ8iE9BQt/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=682&bt=682&cs=0&ds=3&ft=k7Fz7VVywIiRZm8Zmo~pK7pswApucJ3ZvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=NGc2Z2ZkZDc7NGczPDVlO0Bpam1ua3c5cnR2djMzNGkzM0A2LjRgNTEuNWIxYjFgYjY0YSNsYmM0MmRzZ2pgLS1kLTBzcw%3D%3D&btag=80000e00028000&dy_q=1731054371&feature_id=2e1813f3872a2105acee44623dff2864&l=202411081626110DC9587D660658801680",
+      "share_url": "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0300fg10000csmsjqvog65t7hfkejog&ratio=720p&line=0",
       "share_link_desc": "6.46 mQX:/ S@y.go 05/04 如果让我遇见你 听着听着流泪了哟～  %s 复制此链接，打开Dou音搜索，直接观看视频！"
     },
     "duration": 7133,
