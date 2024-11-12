@@ -525,12 +525,12 @@
   },
   {
     "aweme_id": "7344326968478813478",
-    "desc": "准备好迎接夏天了吗#已经开始期待夏天了 #小秋池编舞",
+    "desc": "爱你/陈芳语",
     "create_time": 1709984384,
     "music": {
       "id": 7108698353172844000,
-      "title": "@SNOWSTORM—🍊小秋池创作的原声",
-      "author": "SNOWSTORM—🍊小秋池",
+      "title": "@SNOWSTORM—🍊陈芳语原声",
+      "author": "SNOWSTORM—🍊陈芳语",
       "cover_medium": {
         "uri": "720x720/aweme-avatar/tos-cn-avt-0015_c1b1ca1e05fc6d2eb478739e3360c504",
         "url_list": [
@@ -560,14 +560,14 @@
       "duration": 33,
       "user_count": 0,
       "owner_id": "104215301830",
-      "owner_nickname": "SNOWSTORM—🍊小秋池",
+      "owner_nickname": "SNOWSTORM—🍊陈芳语",
       "is_original": false
     },
     "video": {
       "play_addr": {
         "uri": "v0200fg10000cnm4kq3c77ubn9efls50",
         "url_list": [
-          "https://v3-default.ixigua.com/86be3d2d2af56377799508978db9971f/672d80c7/video/tos/cn/tos-cn-ve-15/oUAnVoQgCfAeUDEmvc94X7bL1pnuABRI1gQldY/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=4389&bt=4389&cs=0&ds=4&ft=k7Fz7VVywIiRZm8Zmo~pK7pswApM3_3ZvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=ZjQzZTVpNWgzPDo2Z2c0OkBpM3ZpPGU6ZnQ3cTMzNGkzM0AxMmJfLl5gXjIxL14xMmMyYSMyaWJrcjQwaGpgLS1kLS9zcw%3D%3D&btag=80000e00010000&dy_q=1731031719&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202411081008394D95FA6E5D6E5950EAD0"
+          "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0d00fg10000crlf2rnog65nqjlu5a1g&ratio=720p&line=0"
         ],
         "width": 1080,
         "height": 1920,
@@ -589,7 +589,7 @@
       "use_static_cover": true,
       "duration": 16648
     },
-    "share_url": "https://v3-default.ixigua.com/86be3d2d2af56377799508978db9971f/672d80c7/video/tos/cn/tos-cn-ve-15/oUAnVoQgCfAeUDEmvc94X7bL1pnuABRI1gQldY/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=4389&bt=4389&cs=0&ds=4&ft=k7Fz7VVywIiRZm8Zmo~pK7pswApM3_3ZvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=ZjQzZTVpNWgzPDo2Z2c0OkBpM3ZpPGU6ZnQ3cTMzNGkzM0AxMmJfLl5gXjIxL14xMmMyYSMyaWJrcjQwaGpgLS1kLS9zcw%3D%3D&btag=80000e00010000&dy_q=1731031719&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202411081008394D95FA6E5D6E5950EAD0",
+    "share_url": "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0d00fg10000crlf2rnog65nqjlu5a1g&ratio=720p&line=0",
     "statistics": {
       "admire_count": 0,
       "comment_count": 3802,
@@ -634,7 +634,7 @@
     ],
     "is_top": 0,
     "share_info": {
-      "share_url": "https://v3-default.ixigua.com/86be3d2d2af56377799508978db9971f/672d80c7/video/tos/cn/tos-cn-ve-15/oUAnVoQgCfAeUDEmvc94X7bL1pnuABRI1gQldY/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=4389&bt=4389&cs=0&ds=4&ft=k7Fz7VVywIiRZm8Zmo~pK7pswApM3_3ZvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=ZjQzZTVpNWgzPDo2Z2c0OkBpM3ZpPGU6ZnQ3cTMzNGkzM0AxMmJfLl5gXjIxL14xMmMyYSMyaWJrcjQwaGpgLS1kLS9zcw%3D%3D&btag=80000e00010000&dy_q=1731031719&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202411081008394D95FA6E5D6E5950EAD0",
+      "share_url": "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0d00fg10000crlf2rnog65nqjlu5a1g&ratio=720p&line=0",
       "share_link_desc": "1.58 kCH:/ 08/24 h@b.nQ 准备好迎接夏天了吗# 已经开始期待夏天了 # 小秋池编舞  %s 复制此链接，打开Dou音搜索，直接观看视频！"
     },
     "duration": 16648,
