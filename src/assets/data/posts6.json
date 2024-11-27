@@ -1116,7 +1116,7 @@
   },
   {
     "aweme_id": "6727250369396608264",
-    "desc": "一想到你我就。。。#芒种 #原创国风计划",
+    "desc": "美国阴谋#中国警醒",
     "create_time": 1566310036,
     "music": {
       "id": 6726069569057803000,
@@ -1158,7 +1158,7 @@
       "play_addr": {
         "uri": "v0200f9e0000bldvt42gd9fqp49ecpag",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0200f9e0000bldvt42gd9fqp49ecpag&line=0&file_id=f87d7ac5d5a24b19b3f33f1b31ba02e7&sign=c872722944d05b0ccd56ac9f5fb8a51b&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200fg10000ct3jsjfog65lj78tj01g&ratio=720p&line=0"
         ],
         "width": 1080,
         "height": 1920,
@@ -1180,7 +1180,7 @@
       "use_static_cover": false,
       "duration": 7258
     },
-    "share_url": "https://www.iesdouyin.com/share/video/6727250369396608264/?region=CN&mid=6726069569057803021&u_code=13kgm680k&did=MS4wLjABAAAAiOgYyZm8XbWZMr5o3OvhR-TEOuNygb_hQOwkie-VXJpDYaR4vZfpiIGBfAWKCFHB&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title&share_sign=Ap.RTkMGnFHEOhBESgtUfw7mmOS5plOMI.3o4FkvWRY-&share_version=170400&ts=1710492054&from_aid=6383&from_ssr=1",
+    "share_url": "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200fg10000ct3jsjfog65lj78tj01g&ratio=720p&line=0",
     "statistics": {
       "admire_count": 0,
       "comment_count": 94706,
@@ -1225,10 +1225,10 @@
     ],
     "is_top": 1,
     "share_info": {
-      "share_url": "https://www.iesdouyin.com/share/video/6727250369396608264/?region=CN&mid=6726069569057803021&u_code=13kgm680k&did=MS4wLjABAAAAiOgYyZm8XbWZMr5o3OvhR-TEOuNygb_hQOwkie-VXJpDYaR4vZfpiIGBfAWKCFHB&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title&share_sign=Ap.RTkMGnFHEOhBESgtUfw7mmOS5plOMI.3o4FkvWRY-&share_version=170400&ts=1710492054&from_aid=6383&from_ssr=1",
+      "share_url": "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200fg10000ct3jsjfog65lj78tj01g&ratio=720p&line=0",
       "share_link_desc": "6.99 05/09 G@v.SY Lws:/ 一想到你我就。。。# 芒种 # 原创国风计划  %s 复制此链接，打开Dou音搜索，直接观看视频！"
     },
-    "duration": 7258,
+    "duration": 371258,
     "image_infos": null,
     "risk_infos": {
       "vote": false,
