@@ -1158,8 +1158,7 @@
       "play_addr": {
         "uri": "v0200f9e0000bldvt42gd9fqp49ecpag",
         "url_list": [
-          "https://v5-dy-o-abtest.zjcdn.com/7aebcf2652145462c50bcaae6890919c/6747602d/video/tos/cn/tos-cn-ve-15/o0dJHAZX5CQ6HiEztoifABgpgQtx8DImeVB1Am/?a=1128&br=480&bt=480&btag=c0010e000b0001&cc=46&cd=0%7C0%7C0%7C0&ch=0&cquery=100y&cr=0&cs=0&cv=1&dr=0&ds=3&dy_q=1732726954&dy_va_biz_cert=&feature_id=aa7df520beeae8e397df15f38df0454c&ft=hqWTmg0TxNdusd95_~KYuj3_r5ItGVbdiP9eFskARSr12nzXT&l=20241128010234E3D2C1BB0ADCC42BAD13&mime_type=video_mp4&qs=0&rc=OTY4Zzg2aTxmZTtnaGk0NUBpajN3Om85cm1tdzMzNGkzM0BhMWFiLjI0NS8xYmA1YzQyYSMuZzVnMmRjcDBgLS1kLS9zcw%3D%3D&req_cdn_type=
-"
+          "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200fg10000ct3jsjfog65lj78tj01g&ratio=720p&line=0"
         ],
         "width": 1080,
         "height": 1920,
@@ -1181,8 +1180,7 @@
       "use_static_cover": false,
       "duration": 7258
     },
-    "share_url": "https://v5-dy-o-abtest.zjcdn.com/7aebcf2652145462c50bcaae6890919c/6747602d/video/tos/cn/tos-cn-ve-15/o0dJHAZX5CQ6HiEztoifABgpgQtx8DImeVB1Am/?a=1128&br=480&bt=480&btag=c0010e000b0001&cc=46&cd=0%7C0%7C0%7C0&ch=0&cquery=100y&cr=0&cs=0&cv=1&dr=0&ds=3&dy_q=1732726954&dy_va_biz_cert=&feature_id=aa7df520beeae8e397df15f38df0454c&ft=hqWTmg0TxNdusd95_~KYuj3_r5ItGVbdiP9eFskARSr12nzXT&l=20241128010234E3D2C1BB0ADCC42BAD13&mime_type=video_mp4&qs=0&rc=OTY4Zzg2aTxmZTtnaGk0NUBpajN3Om85cm1tdzMzNGkzM0BhMWFiLjI0NS8xYmA1YzQyYSMuZzVnMmRjcDBgLS1kLS9zcw%3D%3D&req_cdn_type=
-",
+    "share_url": "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200fg10000ct3jsjfog65lj78tj01g&ratio=720p&line=0",
     "statistics": {
       "admire_count": 0,
       "comment_count": 94706,
@@ -1227,8 +1225,7 @@
     ],
     "is_top": 1,
     "share_info": {
-      "share_url": "https://v5-dy-o-abtest.zjcdn.com/7aebcf2652145462c50bcaae6890919c/6747602d/video/tos/cn/tos-cn-ve-15/o0dJHAZX5CQ6HiEztoifABgpgQtx8DImeVB1Am/?a=1128&br=480&bt=480&btag=c0010e000b0001&cc=46&cd=0%7C0%7C0%7C0&ch=0&cquery=100y&cr=0&cs=0&cv=1&dr=0&ds=3&dy_q=1732726954&dy_va_biz_cert=&feature_id=aa7df520beeae8e397df15f38df0454c&ft=hqWTmg0TxNdusd95_~KYuj3_r5ItGVbdiP9eFskARSr12nzXT&l=20241128010234E3D2C1BB0ADCC42BAD13&mime_type=video_mp4&qs=0&rc=OTY4Zzg2aTxmZTtnaGk0NUBpajN3Om85cm1tdzMzNGkzM0BhMWFiLjI0NS8xYmA1YzQyYSMuZzVnMmRjcDBgLS1kLS9zcw%3D%3D&req_cdn_type=
-",
+      "share_url": "https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200fg10000ct3jsjfog65lj78tj01g&ratio=720p&line=0",
       "share_link_desc": "6.99 05/09 G@v.SY Lws:/ 一想到你我就。。。# 芒种 # 原创国风计划  %s 复制此链接，打开Dou音搜索，直接观看视频！"
     },
     "duration": 371258,
